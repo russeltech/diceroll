@@ -1,0 +1,65 @@
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.header {
+  width: 100%;
+}
+
+.player {
+  color: #DA0037;
+  text-decoration-color: #171717;
+  font-size: 3rem;
+}
+
+.flag {
+  font-size: 4rem;
+  text-decoration: none;
+}
+
+body {
+  background-color: #EDEDED;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 5rem;
+  color: #171717;
+}
+
+h2 {
+  color: #444444;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-size: 2rem;
+  color: #171717;
+  font-family: 'Bebas Neue', cursive;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #171717;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  margin-top: 15%;
+  color: #444444;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
